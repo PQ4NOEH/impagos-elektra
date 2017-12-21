@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  float: left;
+}
+
+.App-header {
+  padding: 20px;
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.header-toolbox{
+  float: right;
+}
+.invoice-warning{
+  color:red
+}
+.invoice-pending{
+  color: #00aced
+}
+.invoice-archived{
+  color:#cdcfd0
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
